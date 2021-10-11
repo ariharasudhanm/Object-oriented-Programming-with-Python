@@ -25,7 +25,7 @@
 ### Content
 - Basic concepts of OOP is explained in concise way so not much thoery is involved.
 - Easy to capture.
-- Implementation is given the most importance
+- Implementation is given the most importance.
 
 ### Requirements
 - Jupyter notebook could be one of the preferable way to run this code since it can be edited easily to play with different values.
