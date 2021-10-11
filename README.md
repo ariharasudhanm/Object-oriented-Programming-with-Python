@@ -2,15 +2,15 @@
 
 ## About / Synopsis
 
-* In this file few OOP concepts are explained and implemented in order to easily capture the concepts.
+* In this file few OOP concepts are explained and implemented in order to easily capture the concepts. Understanding the OOP concepts are crucial for implementing the neural networks so this notebook give you some basic understandings of OOP concepts.
 * Project status: working
 
 
 ## Table of contents
 
-> * [Title / Repository Name](#title--repository-name)
->   * [About / Synopsis](#about--synopsis)
->   * [Table of contents](#table-of-contents)
+> * [Title / Repository Name](https://github.com/ariharasudhanm/Object-oriented-Programming-with-Python)
+>   * [About / Synopsis]
+>   * [Table of contents]
 >   * [Usage](#usage)
 >     * [Content](#content)
 >     * [Requirements](#requirements)
